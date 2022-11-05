@@ -2,8 +2,10 @@
 
 Second challenge created my portfolio
 
-# decription
+## decription
 
 I was able to setup a layout of my portfolio to add projects. clickable links at nav bar to sections and layout setup.
 
-# screenshots
+## screenshots and links
+
+<img src="./assets/pwGem.png" />
