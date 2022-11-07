@@ -11,10 +11,16 @@ body {
   background-color: #fdf8f5;
   color: #4f4846;
 }
+img {
+  width: 250px;
+  height: 250px;
+}
 
-h1,
-h2 {
+h1 {
   margin: 20px;
+}
+h3 {
+  font-size: 20px;
 }
 
 main {
